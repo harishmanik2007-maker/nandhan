@@ -1,0 +1,6 @@
+{
+  "name": "CardioCare – Cardiac Monitoring & Early Risk Alert Platform",
+  "description": "An Efficient IoT-Based Patient Monitoring and Heart Disease Prediction System Using Deep Learning Modified Neural Network with real-time patient telemetry, simulated ESP32 hardware, live ECG waveform, and clinical reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
